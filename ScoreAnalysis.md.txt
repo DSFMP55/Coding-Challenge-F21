@@ -1,4 +1,0 @@
-The polarity score of the text as whole is 0.21353174603174602, and the subjectivity score is 0.5953968253968255. 
-I feel that the subjectivity score should be a bit lower since the second paragraph of the text seems to be more about facts than opinion. 
-While the polarity score seems higher than it should be since I feel that the text seemed more negative leaning than positive.
-
